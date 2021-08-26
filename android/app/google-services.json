@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116291786197",
+    "firebase_url": "https://skieco-dc129-default-rtdb.firebaseio.com",
+    "project_id": "skieco-dc129",
+    "storage_bucket": "skieco-dc129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116291786197:android:8e84c7104dc969fe80d95c",
+        "android_client_info": {
+          "package_name": "com.skionn.skieco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116291786197-6165ao0qbkv72dlivi9645pi28saqd4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_9P6Hc8-CEbnTZgwMoYpMTpwgj7o-fbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116291786197-6165ao0qbkv72dlivi9645pi28saqd4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
