@@ -1,4 +1,4 @@
-# skieco
+# SkiEco
 
 A new Flutter project.
 
