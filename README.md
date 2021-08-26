@@ -1,6 +1,13 @@
 # SkiEco
+Control your PC anywhere from the world using Mobile.
 
-A new Flutter project.
+This Project Uses Python on the PC End and firebase as a medium to communicate with both the devices.
+
+
+
+https://user-images.githubusercontent.com/17604957/130892765-0959c605-d85f-4a0f-b251-e2a9acbcf6a8.mp4
+
+
 
 ## Getting Started
 
